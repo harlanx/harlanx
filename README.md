@@ -3,16 +3,16 @@
 
 <br />
 
-- 🌱 I’m currently learning Flutter Framework. [<img align="center" alt=“Flutter” width="15px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+- 🌱 I’m currently learning Flutter Framework. [<img align="center" alt=“icon” width="15px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 - 👯 I’m looking to collaborate with other developers 🤝
 - ⚡ Fun fact: I like to read manga and exploring new technologies. 📖
 - 📫 How to reach me: [**Facebook**][facebook] [<img align="center" alt=“Facebook” width="15px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook] or [**Email**][email] [<img align="center" alt=“Gmail” width="15px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][email]
 
 ### Language and Tools
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
-[<img align="left" alt=“VSCode” width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-[<img align="left" alt=“Supabase” width="26px" src="https://user-images.githubusercontent.com/78299538/127101051-b808247f-7bd0-4be8-ad19-351a2a2ab557.png "/>][supabase]
+[<img align="left" alt=“Dart” title="Dart Language" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
+[<img align="left" alt=“Flutter” title="Flutter Framework" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
+[<img align="left" alt=“VSCode” title="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
+[<img align="left" alt=“Supabase” title="Supabase" width="26px" src="https://user-images.githubusercontent.com/78299538/127101051-b808247f-7bd0-4be8-ad19-351a2a2ab557.png "/>][supabase]
 
 <br />
 
