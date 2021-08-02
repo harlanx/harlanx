@@ -18,12 +18,12 @@
 <br />
 
 ## Latest Projects
+- [Android] [Audio Recorder and Speech to Text with Commands](https://github.com/harlanx/voice_recorder_recognizer)
 - [Android] [QR Generator and Reader](https://github.com/harlanx/qr_generator_reader)
 - [Web] [Online Service Homepage](https://github.com/harlanx/online_service_homepage)
 - [Package] [Flippable](https://github.com/harlanx/flippable)
 
 ### WIP Projects
-- [Android] Audio Recorder and Speech to Text
 - [Android] Music Player
 - [Desktop] Service Dashboard with Graphs and Charts
 - [Web] Photography and Editing Showcase with Difference Sliders
