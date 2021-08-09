@@ -24,7 +24,6 @@
 - [Package] [Flippable](https://github.com/harlanx/flippable)
 
 ### WIP Projects
-- [Android] Music Player
 - [Desktop] Service Dashboard with Graphs and Charts
 - [Web] Photography and Editing Showcase with Difference Sliders
 - [Web] Corporate Homepage
