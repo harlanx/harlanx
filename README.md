@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋. I'm <a href="https://www.facebook.com/profile.php?id=100001120500550">Harry Silan</a>!</h1>
+<h1 align="center"> Hi. 👋 I'm <a href="https://www.facebook.com/harlanx">Harry Silan</a>!</h1>
 <h3 align="center">Fluttter Developer | Graphic Designer | Media Editor (Photo & Video)</h3>
 
 <br />
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/harry-silan-86b4b1215
 [github]: https://github.com/harlanx
-[facebook]: https://www.facebook.com/profile.php?id=100001120500550
+[facebook]: https://www.facebook.com/harlanx
 [email]: mailto:silan.harry@gmail.com
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
