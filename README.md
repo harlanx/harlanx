@@ -10,10 +10,9 @@
 - 📫 How to reach me: [**Facebook**][facebook] [<img align="center" alt=“Facebook” width="15px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook] or [**Email**][email] [<img align="center" alt=“Gmail” width="15px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][email]
 
 ### Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ffffff&icon_color=5194f0&border_color=dfdfdf&border_radius=5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></a>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&background=ffffff&border=cacaca&ring=5194f0&fire=5194f0&currStreakLabel=5194f0&hide_border=false" alt="GitHub Streak"/></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=harlanx&custom_title=harlanx's%20Activity%20Graph&bg_color=ffffff&color=000000&line=d5e5fa&point=5194f0&area_color=0032FF&radius=5&area=true" alt="GitHub Activity Graph"/></a>
-</p>
+[<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ffffff&icon_color=5194f0&border_color=dfdfdf&border_radius=5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />][readmestats]
+[<img title="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&background=ffffff&border=cacaca&ring=5194f0&fire=5194f0&currStreakLabel=5194f0&hide_border=false" />][readmestreak]
+[<img title="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harlanx&custom_title=harlanx's%20Activity%20Graph&bg_color=ffffff&color=000000&line=d5e5fa&point=5194f0&area_color=0032FF&radius=5&area=true" /></p>][readmegraph]
 
 ### Language and Tools
 [<img align="left" alt=“Dart” title="Dart Language" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
@@ -61,3 +60,6 @@ Here are some ideas to get you started:
 [vscode]: https://code.visualstudio.com
 [vs]: https://visualstudio.microsoft.com
 [supabase]: https://supabase.io
+[readmestats]: https://github.com/anuraghazra/github-readme-stats
+[readmestreak]: https://git.io/streak-stats
+[readmegraph]: https://github.com/ashutosh00710/github-readme-activity-graph
