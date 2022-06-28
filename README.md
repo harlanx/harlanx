@@ -11,8 +11,7 @@
 
 ### Stats
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ffffff&icon_color=5194f0&border_color=dfdfdf&border_radius=5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&background=ffffff&border=cacaca&ring=5194f0&fire=5194f0&currStreakLabel=5194f0&hide_border=false" alt="GitHub Streak"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ffffff&icon_color=5194f0&border_color=dfdfdf&border_radius=5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></a>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&background=ffffff&border=cacaca&ring=5194f0&fire=5194f0&currStreakLabel=5194f0&hide_border=false" alt="GitHub Streak"/></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=harlanx&custom_title=harlanx's%20Activity%20Graph&bg_color=ffffff&color=000000&line=d5e5fa&point=5194f0&area_color=0032FF&radius=5&area=true" alt="GitHub Activity Graph"/></a>
 </p>
 
