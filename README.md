@@ -7,7 +7,7 @@
 - 📚 I’m willing to learn other frameworks.
 - 👯 I’m looking to collaborate with other developers 🤝
 - ⚡ Fun fact: I like to read manga and exploring new technologies 📖
-- 📫 How to reach me: [**Facebook**][facebook] [<img align="center" alt=“Facebook” width="15px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook] or [**Email**][email] [<img align="center" alt=“Gmail” width="15px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][email]
+- 📫 How to reach me: [**Email**][email] [<img align="center" alt=“Gmail” width="15px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][email], [**LinkedIn**][linkedin] [<img align="center" alt=“LinkedIn” width="15px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin] or [**Facebook**][facebook] [<img align="center" alt=“Facebook” width="15px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook].
 
 ### Stats
 [<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ced7ce&icon_color=5194f0&border_color=dfdfdf&border_radius=2.5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />][readmestat]
