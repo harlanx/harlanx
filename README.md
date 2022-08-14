@@ -1,5 +1,5 @@
 <h1 align="center"> Hi. 👋 I'm <a href="https://www.facebook.com/harlanx">Harry Silan</a>!</h1>
-<h3 align="center">Fluttter Developer | Graphic Designer | Media Editor (Photo & Video)</h3>
+<h3 align="center">Front End Developer ● Graphic Designer ● Media Editor</h3>
 
 <br />
 
