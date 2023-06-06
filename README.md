@@ -12,7 +12,7 @@
 ### Stats
 [<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&bg_color=ced7ce&icon_color=5194f0&border_color=dfdfdf&border_radius=2.5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />][readmestat]
 [<img title="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&background=ced7ce&border=cacaca&ring=5194f0&fire=5194f0&currStreakLabel=5194f0&hide_border=false" />][readmestreak]
-[<img title="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harlanx&custom_title=harlanx's%20Activity%20Graph&bg_color=ced7ce&color=000000&line=d5e5fa&point=5194f0&area_color=0032FF&radius=2.5&area=true" /></p>][readmegraph]
+[<img title="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harlanx&custom_title=harlanx's%20Activity%20Graph&bg_color=ced7ce&color=000000&line=d5e5fa&point=5194f0&area_color=0032FF&radius=2.5&area=true" /></p>][readmegraph]
 
 ### Language and Tools
 [<img align="left" alt=“Dart” title="Dart Language" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
