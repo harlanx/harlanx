@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flutter Framework. [<img align="center" alt=“icon” width="15px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 - 📚 I’m willing to learn other frameworks.
 - 👯 I’m looking to collaborate with other developers 🤝
-- ⚡ Fun fact: I like to read manga and exploring new technologies 📖
+- ⚡ I like to explore new technologies when presented with opportunities 📖
 <!-- - 📫 How to reach me: [**Email**][email] [<img align="center" alt=“Gmail” width="15px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />][email], [**LinkedIn**][linkedin] [<img align="center" alt=“LinkedIn” width="15px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin] or [**Facebook**][facebook] [<img align="center" alt=“Facebook” width="15px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]. -->
 
 ### Stats
