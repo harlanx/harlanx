@@ -1,6 +1,6 @@
 <h1 align="center"> Hi. 🙋‍♂️ I'm <a href="https://www.facebook.com/harlanx">Harry Silan</a>!</h1>
-<!-- <h3 align="center">Front End Developer ● Graphic Designer ● Media Editor</h3> -->
-
+<h3 align="center">Software Developer ● Graphic Designer ● Media Editor</h3>
+<h4 align="center">Connect with me:</h4>
 
 [<p align="center"> <img alt=“Gmail” src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 [<img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -8,7 +8,7 @@
   
 
 ### Stats
-[<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&theme=transparent&title_color=6EA343&text_color=9DC77A&icon_color=4A841A&border_radius=2.5&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" />][readmestat]
+[<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&theme=transparent&title_color=6EA343&text_color=9DC77A&icon_color=4A841A&border_radius=2.5&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&hide_rank=true" />][readmestat]
 [<img title="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=harlanx&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&card_width=380&fire=6EA343&ring=9DC77A&currStreakNum=6EA343&currStreakLabel=6EA343&sideLabels=4A841A&sideNums=9DC77A&dates=6EA343" />][readmestreak]
 [<img title="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harlanx&bg_color=00000000&color=48a41a&line=9dc77a&point=6ea343&area=true&hide_border=true&area=false" /></p>][readmegraph]
 
@@ -24,17 +24,9 @@
 [<p align="left"><img alt="Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlanx&theme=transparent&title_color=6EA343&text_color=9DC77A&layout=compact&langs_count=10"></p>][readmestat]
 
 
-## Latest Projects
-- [Windows] [MKV Profile (Per Profile Muxing Tool)](https://github.com/harlanx/mkv_profile)
-- [Android] [Audio Recorder and Speech to Text with Commands](https://github.com/harlanx/voice_recorder_recognizer)
-- [Android] [QR Generator and Reader](https://github.com/harlanx/qr_generator_reader)
-- [Web] [Online Service Homepage](https://github.com/harlanx/online_service_homepage)
-- [Package] [Flippable](https://github.com/harlanx/flippable)
+## Projects
+[<img title="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=harlanx&repo=mkv_profile&theme=transparent&title_color=6EA343&text_color=9DC77A" />][mkvprofile]
 
-### WIP Projects
-- [Desktop] Service Dashboard with Graphs and Charts
-- [Web] Photography and Editing Showcase with Difference Sliders
-- [Web] Corporate Homepage
 
 [linkedin]: https://www.linkedin.com/in/harry-silan-86b4b1215
 [github]: https://github.com/harlanx
@@ -51,3 +43,4 @@
 [readmestat]: https://github.com/anuraghazra/github-readme-stats
 [readmestreak]: https://git.io/streak-stats
 [readmegraph]: https://github.com/ashutosh00710/github-readme-activity-graph
+[mkvprofile]: https://github.com/harlanx/mkv_profile
