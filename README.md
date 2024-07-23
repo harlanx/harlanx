@@ -17,15 +17,18 @@
 [<img align="left" alt=“Flutter” title="Flutter Framework" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][flutter]
 [<img align="left" alt=“C++” title="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][cplus]
 [<img align="left" alt=“C#” title="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][csharp]
-[<img align="left" alt=“Python” title="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left" alt=“Python” title="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />][python]
 [<img align="left" alt=“VSCode” title="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
 [<img align="left" alt=“VisualStudio” title="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />][vs]
-[<img align="left" alt=“Supabase” title="Supabase" width="26px" src="https://user-images.githubusercontent.com/78299538/127101051-b808247f-7bd0-4be8-ad19-351a2a2ab557.png "/>][supabase]<br/>
+[<img align="left" alt=“Supabase” title="Supabase" width="26px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg"/>][supabase]
+[<img align="left" alt=“Git” title="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>][git]
+[<img align="left" alt=“Github” title="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>][github]
+[<img align="left" alt=“StackOverflow” title="StackOverflow" width="26px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"/>][stackoverflow]<br/>
 [<p align="left"><img alt="Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harlanx&theme=transparent&title_color=6EA343&text_color=9DC77A&layout=compact&langs_count=10"></p>][readmestat]
 
 
-## Projects
-[<img title="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=harlanx&repo=mkv_profile&theme=transparent&title_color=6EA343&text_color=9DC77A" />][mkvprofile]
+<!-- ## Projects
+[<img title="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=harlanx&repo=mkv_profile&theme=transparent&title_color=6EA343&text_color=9DC77A" />][mkvprofile] -->
 
 
 [linkedin]: https://www.linkedin.com/in/harry-silan-86b4b1215
@@ -39,6 +42,9 @@
 [python]: https://www.python.org/doc
 [vscode]: https://code.visualstudio.com
 [vs]: https://visualstudio.microsoft.com
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[stackoverflow]: https://stackoverflow.com/
 [supabase]: https://supabase.io
 [readmestat]: https://github.com/anuraghazra/github-readme-stats
 [readmestreak]: https://git.io/streak-stats
