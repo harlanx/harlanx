@@ -2,10 +2,12 @@
 <h3 align="center">Software Developer ● Graphic Designer ● Media Editor</h3>
 <h4 align="center">Connect with me:</h4>
 
-[<p align="center"> <img alt=“Gmail” src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
-[<img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt=“Facebook” src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></p>][facebook]
-  
+[<p align="center">][blank]
+[<img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt=“Gmail” src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
+[<img alt=“Facebook” src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
+[</p>][blank]
+
 
 ### Stats
 [<p align="center"><img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harlanx&theme=transparent&title_color=6EA343&text_color=9DC77A&icon_color=4A841A&border_radius=2.5&show_icons=true&hide_border=false&include_all_commits=false&count_private=true&hide_rank=true" />][readmestat]
@@ -30,7 +32,7 @@
 <!-- ## Projects
 [<img title="Featured Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=harlanx&repo=mkv_profile&theme=transparent&title_color=6EA343&text_color=9DC77A" />][mkvprofile] -->
 
-
+[blank]: blank
 [linkedin]: https://www.linkedin.com/in/harry-silan-86b4b1215
 [github]: https://github.com/harlanx
 [facebook]: https://www.facebook.com/harlanx
