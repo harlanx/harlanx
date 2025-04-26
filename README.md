@@ -1,5 +1,5 @@
 <h1 align="center"> Hi. 🙋‍♂️ I'm <a href="https://www.facebook.com/harlanx">Harry Silan</a>!</h1>
-<h3 align="center">Software Developer ● Data Analyst Graphic Designer and Editor ●</h3>
+<h3 align="center">Software Developer ● Data Analyst ● Graphic Designer and Editor ●</h3>
 <h4 align="center">Connect with me:</h4>
 
 [<p align="center"><img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
